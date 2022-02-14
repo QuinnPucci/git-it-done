@@ -3,7 +3,7 @@
 [Application live here](https://quinnpucci.github.io/git-it-done/)
 
   ## Description
-  Uses GitHub's API to search for open source repos with community contribvutions. Demonstration of front end skills, HTML, CSS, and JS
+  Uses GitHub's API to search for open source repos with community contributions. Demonstration of front end skills, HTML, CSS, and JS
 
   ## Contributors
   Quinn Pucci
